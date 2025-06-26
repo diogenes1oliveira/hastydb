@@ -1,0 +1,2 @@
+# hastydb
+Hyper aggregations
