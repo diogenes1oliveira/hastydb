@@ -1,2 +1,3 @@
 # hastydb
-Hyper aggregations
+
+Privacy-preserving aggregations, both client and server side
